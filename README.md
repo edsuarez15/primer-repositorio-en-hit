@@ -1,3 +1,5 @@
-este proyecto es una prueba de como crear un repositorio en hithub y clonarlo en mi escritorio local
+bueno ya vamos creando por segunda vez un repositorio desde la nube
+ed miyagi.
+
 
 
